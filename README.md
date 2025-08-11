@@ -1,16 +1,17 @@
-## Hi there 👋
+![](img/banner.png)
 
-<!--
-**faqihfnf/faqihfnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Faqih Nur Fahmi
 
-Here are some ideas to get you started:
+I create beautiful and functional web applications using modern technologies to help and solve the problems. Passionate about user experience and innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 🖥️ My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python&perline=10)](https://skillicons.dev)
+
+##### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faqih-nur-fahmi-b51bb1ab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/faqih.fnf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crash.fahmi)
+
+##### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=faqihfnf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
