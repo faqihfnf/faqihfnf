@@ -15,3 +15,11 @@ I create beautiful and functional web applications using modern technologies to 
 ##### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=faqihfnf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+##### 🐍 Play With Me
+
+###
+
+<img src="https://raw.githubusercontent.com/faqihfnf/faqihfnf/output/snake.svg" alt="Snake animation" />
+
+###
