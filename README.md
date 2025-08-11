@@ -16,8 +16,6 @@ I create beautiful and functional web applications using modern technologies to 
 
 ![](https://github-profile-trophy.vercel.app/?username=faqihfnf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=faqihfnf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🐍 Play With Me
 
 <img src="https://raw.githubusercontent.com/faqihfnf/faqihfnf/output/snake.svg" alt="Snake animation" />
